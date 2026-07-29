@@ -46,7 +46,7 @@ class Batman:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sn0wden&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Defen21&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -54,11 +54,11 @@ class Batman:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sn0wden&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Defen21&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sn0wden&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Defen21&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sn0wden&theme=gotham&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Defen21&theme=gotham&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
 
 </div>
 
@@ -94,7 +94,21 @@ class Batman:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sn0wden&theme=gotham&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Defen21&theme=gotham&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Recent Projects
+
+<div align="center">
+
+[![Web-Foresty](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Web-Foresty)
+[![SENTRY](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-)
+
+[![ARise-Learn](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=ARise-Learn&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/ARise-Learn)
+[![UniTech](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=UniTech&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/UniTech)
 
 </div>
 
@@ -113,7 +127,7 @@ class Batman:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sn0wden-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn0wden)
+[![GitHub](https://img.shields.io/badge/GitHub-Defen21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Defen21)
 [![Email](https://img.shields.io/badge/Email-defenderramadhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defenderramadhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
@@ -125,7 +139,7 @@ class Batman:
 
 ### 💬 "Why do we fall? So we can learn to pick ourselves up."
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sn0wden&color=yellow&style=for-the-badge&label=BAT-SIGNAL+RECEIVED)
+![Visitor Count](https://komarev.com/ghpvc/?username=Defen21&color=yellow&style=for-the-badge&label=BAT-SIGNAL+RECEIVED)
 
 ```
     _,    _   _    ,_
