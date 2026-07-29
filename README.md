@@ -140,6 +140,4 @@ YJGS8P"Y888P"Y888P"Y888P"Y8888P
     `                     `
 ```
 
-**"I'm whatever Gotham needs me to be."**
-
 </div>
