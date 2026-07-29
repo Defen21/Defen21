@@ -104,11 +104,60 @@ class Batman:
 
 <div align="center">
 
-[![Web-Foresty](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Web-Foresty)
-[![SENTRY](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-)
-
-[![AEGIS](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=AEGIS&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/AEGIS)
-[![Stegsik](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Stegsik&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Stegsik)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌲 <a href="https://github.com/Defen21/Web-Foresty">Web-Foresty</a></h3>
+      <p align="left">Interactive Environmental & Forestry Web Platform</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Defen21/Web-Foresty">📂 <b>Repo</b></a> &nbsp;•&nbsp; 
+        <a href="https://web-foresty.vercel.app">🚀 <b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🛡️ <a href="https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-">SENTRY System</a></h3>
+      <p align="left">Secure Network Threat Response & Monitoring</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-">📂 <b>Repo</b></a> &nbsp;•&nbsp; 
+        <a href="https://sentry-app.my.id">🚀 <b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚔️ <a href="https://github.com/Defen21/AEGIS">AEGIS</a></h3>
+      <p align="left">Autonomous Security & Threat Intelligence</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-DC143C?style=flat-square&logo=hackaday&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Defen21/AEGIS">📂 <b>Repo</b></a> &nbsp;•&nbsp; 
+        <a href="https://coffe-break.hackathon.sev-2.com">🚀 <b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🔒 <a href="https://github.com/Defen21/Stegsik">Stegsik</a></h3>
+      <p align="left">Steganography & Digital Forensics Analysis Tools</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Forensics-000000?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Defen21/Stegsik">📂 <b>Repo</b></a> &nbsp;•&nbsp; 
+        <a href="https://stegsik.xyz/">🚀 <b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
