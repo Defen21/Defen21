@@ -48,28 +48,6 @@ class Batman:
 
 ---
 
-## 🏆 Achievements & Arsenal
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Defen21&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 🎯 Mission Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Defen21&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Defen21&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Defen21&theme=gotham&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
-
-</div>
-
----
-
 ## ⚡ Batcave Tech Stack
 
 <div align="center">
@@ -91,6 +69,28 @@ class Batman:
 ![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logo=ida&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=for-the-badge&logo=ghidra&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Arsenal
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Defen21&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🎯 Mission Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Defen21&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Defen21&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Defen21&theme=gotham&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
 
 </div>
 
