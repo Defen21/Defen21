@@ -8,9 +8,9 @@
 ███████ ██   ████  ██████   ███ ███  ██████  ███████ ██   ████ 
 ```
 
-### 🦇 Ramadhan Tangguh Defender | The Dark Knight of Code
+### 🦇 Ramadhan Tangguh Defender
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=I+am+vengeance.+I+am+the+night.;I+am+Ramadhan+Tangguh+Defender;Security+Researcher+%7C+CTF+Player;Penetration+Tester+%7C+Bug+Hunter;Defending+Gotham's+Cyber+Realm+%F0%9F%A6%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=I+am+Ramadhan+Tangguh+Defender;Security+Researcher+%7C+CTF+Player;Penetration+Tester+%7C+Bug+Hunter;Defending+Gotham's+Cyber+Realm+%F0%9F%A6%87)](https://git.io/typing-svg)
 
 </div>
 
