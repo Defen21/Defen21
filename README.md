@@ -23,7 +23,7 @@ class Batman:
     def __init__(self):
         self.alias = "sn0wden"
         self.real_name = "Ramadhan Tangguh Defender"
-        self.role = "Cyber Security Specialist"
+        self.role = "Security Researcher"
         self.email = "defenderramadhan@gmail.com"
         self.location = "Gotham City, Indonesia"
         self.mission = "Protecting the digital streets of Gotham"
