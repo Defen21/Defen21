@@ -12,6 +12,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+CTF+Player;Penetration+Tester+%7C+Bug+Hunter;Defending+Gotham's+Cyber+Realm+%F0%9F%A6%87)](https://git.io/typing-svg)
 
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Defen21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Defen21)
+[![Email](https://img.shields.io/badge/Email-defenderramadhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defenderramadhan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 </div>
 
 ---
@@ -169,18 +175,6 @@ class Batman:
 - 🐛 **Bug Bounty Hunter**: Indonesian Gov Pentest (.go.id domains)
 - 🔍 **Security Researcher**: Focus on Web App & Memory Forensics
 - 🛠️ **Tool Developer**: VolWeb - Volatility Web Interface
-
----
-
-## 📡 Bat-Signal (Contact)
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Defen21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Defen21)
-[![Email](https://img.shields.io/badge/Email-defenderramadhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:defenderramadhan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
 
 ---
 
