@@ -102,15 +102,70 @@ class Batman:
 
 ## 🚀 Recent Projects
 
-<div align="center">
-
-[![Web-Foresty](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Web-Foresty)
-[![SENTRY](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-)
-
-[![ARise-Learn](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=ARise-Learn&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/ARise-Learn)
-[![UniTech](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=UniTech&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/UniTech)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌲 Web-Foresty</h3>
+      <p align="center">
+        <a href="https://github.com/Defen21/Web-Foresty">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="Web-Foresty" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://web-foresty.vercel.app">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ SENTRY</h3>
+      <p align="center">
+        <a href="https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="SENTRY" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://sentry-app.my.id">🔗 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 ARise-Learn</h3>
+      <p align="center">
+        <a href="https://github.com/Defen21/ARise-Learn">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=ARise-Learn&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="ARise-Learn" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+      <p align="center">LIDM Competition Project</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 UniTech</h3>
+      <p align="center">
+        <a href="https://github.com/Defen21/UniTech">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=UniTech&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="UniTech" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://unitech-five.vercel.app">🔗 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
