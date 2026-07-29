@@ -104,10 +104,11 @@ class Batman:
 
 <div align="center">
 
-<a href="https://github.com/Defen21/Web-Foresty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="40%" /></a>
-<a href="https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="40%" /></a>
-<a href="https://github.com/Defen21/AEGIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=AEGIS&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="40%" /></a>
-<a href="https://github.com/Defen21/Stegsik"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Stegsik&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="40%" /></a>
+[![Web-Foresty](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Web-Foresty&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Web-Foresty)
+[![SENTRY](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=SENTRY-Secure-Network-Threat-Response-System-&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/SENTRY-Secure-Network-Threat-Response-System-)
+
+[![AEGIS](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=AEGIS&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/AEGIS)
+[![Stegsik](https://github-readme-stats.vercel.app/api/pin/?username=Defen21&repo=Stegsik&theme=gotham&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff)](https://github.com/Defen21/Stegsik)
 
 </div>
 
